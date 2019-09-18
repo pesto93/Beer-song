@@ -1,0 +1,1 @@
+scalac -bootclasspath C:\Users\Johnleonard\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.2\scala-library-2.12.2.jar -classpath C:\Users\Johnleonard\Exercism\scala\beer-song\target\scala-2.12\classes C:\Users\Johnleonard\Exercism\scala\beer-song\src\main\scala\BeerSong.scala

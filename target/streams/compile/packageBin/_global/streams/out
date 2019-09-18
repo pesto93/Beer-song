@@ -1,0 +1,13 @@
+[debug] Packaging C:\Users\Johnleonard\Exercism\scala\beer-song\target\scala-2.12\beer-song_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\Johnleonard\Exercism\scala\beer-song\target\scala-2.12\classes
+[debug] 	.keep
+[debug] 	  C:\Users\Johnleonard\Exercism\scala\beer-song\target\scala-2.12\classes\.keep
+[debug] 	BeerSong$.class
+[debug] 	  C:\Users\Johnleonard\Exercism\scala\beer-song\target\scala-2.12\classes\BeerSong$.class
+[debug] 	BeerSong$delayedInit$body.class
+[debug] 	  C:\Users\Johnleonard\Exercism\scala\beer-song\target\scala-2.12\classes\BeerSong$delayedInit$body.class
+[debug] 	BeerSong.class
+[debug] 	  C:\Users\Johnleonard\Exercism\scala\beer-song\target\scala-2.12\classes\BeerSong.class
+[debug] Done packaging.
